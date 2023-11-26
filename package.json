@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "memoryjs": "^3.5.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+}
+}
